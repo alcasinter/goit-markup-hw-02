@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -15,21 +15,19 @@ ul {
 .link {
   text-decoration: none;
 }
-
 .logo {
-  color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway;
+  color: var(--IRIS, #4d5ae5);
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-
-.span {
-  color: var(--IRIS, #4d5ae5);
-  font-family: Raleway;
-  font-size: 18px;
+.logo_white {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Raleway, sans-serif;
+  font-size: 18px
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
@@ -47,6 +45,18 @@ ul {
   letter-spacing: 0.32px;
 }
 
+.navigation-link:hover{
+  color: #404bbf;
+}
+.navigation-link:focus {
+  color: #404bbf;
+}
+
+.addres-list {
+  font-style: normal;
+}
+
+
 .contacts-link {
   color: var(--SLATE, #434455);
 
@@ -56,6 +66,13 @@ ul {
   font-weight: 400;
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
+}
+.contacts-link:hover {
+color: #404bbf;
+}
+
+.contacts-link:focus {
+  color: #404bbf ;
 }
 
 h1 {
@@ -118,7 +135,7 @@ h1 {
   letter-spacing: 0.32px;
 }
 
-.portfolio_name {
+.portfolio-name {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
 
