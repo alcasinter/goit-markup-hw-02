@@ -57,7 +57,7 @@ ul {
 }
 
 .title {
-  background-color: #2e2f42;
+  background: var(--NAVY-BLUE, #2E2F42);
 }
 
 .contacts-link {
@@ -90,25 +90,23 @@ line-height: 1.07; /* 107.143% */
 letter-spacing: 1.12px;
 }
 
-.button {
-  color: var(--WHITE, #fff);
+.button-text {
+  color: var(--WHITE, #FFF);
 
-  /* Button Text */
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.64px;
-  background-color: #4d5ae5;
-  cursor: pointer;
+/* Button Text */
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.64px;
 }
 
-.button :hover{
-  background-color: #404BBF;
+.button-text :hover {
+  background-color: #404BBF
 }
 
-.button :focus {
-  background-color: #404BBF;
+.button-text :focus {
+  background-color: #404BBF
 }
 
 .differences-name {
