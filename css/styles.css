@@ -52,6 +52,10 @@ ol {
   color: #404bbf;
 }
 
+.address {
+  font-style: normal;
+}
+
 .contacts-link {
   color: var(--SLATE, #434455);
 
