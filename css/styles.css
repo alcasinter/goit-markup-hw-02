@@ -52,7 +52,7 @@ ol {
   color: #404bbf;
 }
 
-h1 {
+.title-name {
   color: var(--WHITE, #fff);
   text-align: center;
 
@@ -114,9 +114,6 @@ h1 {
 
 .team {
   background-color: #f4f4fd;
-}
-.team-list {
-  background-color: #ffffff;
 }
 
 .team-logo {
