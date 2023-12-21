@@ -53,10 +53,6 @@ ol {
 }
 
 .contacts-link {
-  font-style: normal;
-}
-
-.contacts-link {
   color: var(--SLATE, #434455);
 
   /* Body */
@@ -138,6 +134,10 @@ ol {
 
 .team {
   background-color: #f4f4fd;
+}
+
+.team-list {
+  background-color: #ffffff;
 }
 
 .team-logo {
