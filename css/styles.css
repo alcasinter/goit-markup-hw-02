@@ -52,6 +52,10 @@ ol {
   color: #404bbf;
 }
 
+.addresss {
+  font-style: normal;
+}
+
 .contacts-link {
   color: var(--SLATE, #434455);
 
@@ -65,6 +69,10 @@ ol {
 }
 
 .contacts-link:hover {
+  color: var(--OCEAN, #404bbf);
+}
+
+.contacts-link:focus {
   color: var(--OCEAN, #404bbf);
 }
 
