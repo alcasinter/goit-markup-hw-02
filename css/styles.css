@@ -56,6 +56,9 @@ ul {
   font-style: normal;
 }
 
+.title {
+  background-color: #2e2f42;
+}
 
 .contacts-link {
   color: var(--SLATE, #434455);
@@ -75,17 +78,16 @@ color: #404bbf;
   color: #404bbf ;
 }
 
-h1 {
-  color: var(--WHITE, #fff);
-  text-align: center;
+.page-name {
+  color: var(--WHITE, #FFF);
+text-align: center;
 
-  /* Header 1 */
-  font-family: Roboto;
-  font-size: 56px;
-  font-weight: 700;
-  line-height: 1.07; /* 107.143% */
-  letter-spacing: 1.12px;
-  background: var(--NAVY-BLUE, #2e2f42);
+/* Header 1 */
+font-family: Roboto;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07; /* 107.143% */
+letter-spacing: 1.12px;
 }
 
 .button {
@@ -98,6 +100,15 @@ h1 {
   line-height: 24px; /* 150% */
   letter-spacing: 0.64px;
   background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.button :hover{
+  background-color: #404BBF;
+}
+
+.button :focus {
+  background-color: #404BBF;
 }
 
 .differences-name {
