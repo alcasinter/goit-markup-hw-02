@@ -116,6 +116,10 @@ ol {
   background-color: #f4f4fd;
 }
 
+.team-list {
+  background-color: #ffffff;
+}
+
 .team-logo {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
