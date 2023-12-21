@@ -6,6 +6,7 @@ body {
 
 a {
   text-decoration: none;
+  font-style: normal;
 }
 
 ul,
@@ -132,14 +133,9 @@ ol {
   letter-spacing: 0.32px;
 }
 
-.team {
-  background-color: #f4f4fd;
-}
-
 .team-logo {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
-  background-color: #FFFFFF
 
   /* Header 2 */
   font-family: Roboto;
