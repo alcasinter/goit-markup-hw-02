@@ -52,10 +52,6 @@ ol {
   color: #404bbf;
 }
 
-.address {
-  font-style: normal;
-}
-
 .contacts-link {
   color: var(--SLATE, #434455);
 
@@ -140,7 +136,7 @@ ol {
   background-color: #f4f4fd;
 }
 
-.team-item {
+.team-list {
   background-color: #ffffff;
 }
 
