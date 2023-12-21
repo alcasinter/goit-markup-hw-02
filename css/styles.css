@@ -90,24 +90,6 @@ line-height: 1.07; /* 107.143% */
 letter-spacing: 1.12px;
 }
 
-.button-text {
-  color: var(--WHITE, #FFF);
-
-/* Button Text */
-font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.64px;
-}
-
-.button-text :hover {
-  background-color: #404BBF
-}
-
-.button-text :focus {
-  background-color: #404BBF
-}
 
 .differences-name {
   color: var(--NAVY-BLUE, #2e2f42);
