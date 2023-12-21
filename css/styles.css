@@ -52,6 +52,22 @@ ol {
   color: #404bbf;
 }
 
+.contacts-link {
+  color: var(--SLATE, #434455);
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+  font-style: normal;
+}
+
+.contacts-link:hover {
+  color: var(--OCEAN, #404bbf);
+}
+
 .title-name {
   color: var(--WHITE, #fff);
   text-align: center;
@@ -114,10 +130,6 @@ ol {
 
 .team {
   background-color: #f4f4fd;
-}
-
-.team-class {
-  background-color: #ffffff;
 }
 
 .team-logo {
