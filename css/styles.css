@@ -136,6 +136,10 @@ ol {
   background-color: #f4f4fd;
 }
 
+.team-list > .team {
+  background-color: #ffffff;
+}
+
 .team-logo {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
