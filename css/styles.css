@@ -133,10 +133,6 @@ ol {
   letter-spacing: 0.32px;
 }
 
-.team-list-subtitle {
-  background-color: #f4f4fd;
-}
-
 .team-logo {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
