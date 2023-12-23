@@ -29,7 +29,7 @@ ol {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
-  letter-spacing: 0.54px;
+  letter-spacing: 0.33em;
   text-transform: uppercase;
 }
 
@@ -41,7 +41,7 @@ ol {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .nav-link:hover {
@@ -62,7 +62,6 @@ ol {
   /* Body */
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
@@ -84,7 +83,7 @@ ol {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07; /* 107.143% */
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
@@ -100,7 +99,7 @@ ol {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
 }
@@ -121,16 +120,15 @@ ol {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px; /* 120% */
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .benefits-text {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .team {
   background-color: #f4f4fd;
@@ -146,7 +144,7 @@ ol {
   text-align: center;
   font-weight: 700;
   line-height: 1.11; /* 111.111% */
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -156,16 +154,15 @@ ol {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px; /* 120% */
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .team-prof {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-title {
@@ -174,7 +171,7 @@ ol {
   font-size: 36px;
   font-weight: 700;
   line-height: 40px; /* 111.111% */
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -184,7 +181,7 @@ ol {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px; /* 120% */
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-text {
@@ -193,9 +190,8 @@ ol {
   /* Body */
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 footer {
   background: var(--NAVY-BLUE, #2e2f42);
@@ -207,7 +203,7 @@ footer {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -217,7 +213,7 @@ footer {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -227,7 +223,6 @@ footer {
   /* Body */
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
