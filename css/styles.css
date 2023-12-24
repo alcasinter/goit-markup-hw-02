@@ -15,22 +15,16 @@ ol {
 
 .logo {
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway, sans-serif;
+  font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .logo_white {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17; /* 116.667% */
-  letter-spacing: 0.33em;
-  text-transform: uppercase;
 }
 
 .nav-link {
